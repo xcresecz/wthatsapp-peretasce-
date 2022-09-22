@@ -1,4 +1,4 @@
-# Spam Wa Nya Ganzz
+# whatsapp - peretasce 
 
 
 • pkg update && pkg upgrade
@@ -10,8 +10,8 @@
 
 • PIP install requests bs4 future rich mechanize
 
-• git clone https://github.com/ZoroXMBF/Spam
+• git clone https://github.com/xcresecz
 
-• cd Spam
+• cd whatsapp 
 
-• python spam.py
+• python reteasce.py
